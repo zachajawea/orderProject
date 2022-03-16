@@ -1,0 +1,79 @@
+Orientation:
+PL:
+DOA:
+Obj:
+
+1. Situation
+\tA. Enemy
+\t\t1. Description
+\t\t\tS:
+\t\t\tA:
+\t\t\tL:
+\t\t\tU:
+\t\t\tT:
+\t\t\tE:
+\t\t2. COA's
+\t\t\tD:
+\t\t\tR:
+\t\t\tA:
+\t\t\tW:
+\t\t\tD:
+\tB. Friendly
+\t\tH:
+\t\tA:
+\t\tS:
+\tC. ATT/DET:
+2. Mission
+3. Execution
+\tA. Commander's Intent:
+\t\tPurpose:
+\t\tMethod:
+\t\t\tCoG
+\t\t\tCV
+\t\t\tExploit Plan:
+\t\tB. Concept of Operations
+\t\t\t1. SOM:
+FOM:
+AA-AK:
+AK-AS:
+AS-OB:
+180/Cons:
+                        2. Fire Support Plan:
+            C. Tasks (& assign Main Effort)
+                        1. 1st FT, 5W's:
+                        2. 2nd FT, 5W's:
+                        3. 3rd FT, 5W's:
+            D. Coordinating Instructions
+                        1. TOA:
+                        2. Base Unit:
+                        3. Order/Formations for Movement
+                                    AA-AK:
+                                    AK-AS:
+                                    AS-OB:
+                        4. Security Assignments during
+                                                      Movements/Halts
+                                                      Hasty 180
+                                                      Consolidation
+                        5. Tactical Control Measures (8 digit grid coordinate and terrain feature)
+                                    AA:
+                                    AK:
+                                    LOD:
+                                    AS:
+                                    OB:
+                        6. Route to the Objective
+                                                            Azimuth    Distance    Terrain
+                                    AA-AK:
+                                    AK-AS:
+                                    AS-OB:
+
+4. Admin and Logistics: The 4 B's
+                                  Beans:
+                                  Bullets:
+                                  Band-Aids:
+5. Command and Signal
+            Signal:
+            Command:
+                        Plt Cdr:
+                        Plt Sgt:
+                        Sqd Ldr:
+            Succession of Command:
